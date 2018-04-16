@@ -4,7 +4,7 @@ ATM machines allow 4 or 6 digit PIN codes and PIN codes cannot contain anything 
 
 If the function is passed a valid PIN string, return true, else return false.
 
-
+https://www.codewars.com/kata/alternate-capitalization/train/javascript
 
 Given a string, capitalize the letters that occupy even indexes and odd indexes separately, and return as shown below. Index 0 will be considered even.
 
