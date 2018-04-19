@@ -10,4 +10,6 @@ function disemvowel(str) {
     noVowels.push(letter);
     }
   }
+  
+  return noVowels.join('');
 }
